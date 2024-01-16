@@ -1,0 +1,13 @@
+id,fullname,email,timeCheckin,days,booking_tour_name,price,number_adults,number_children,hotel_infor,createdTime,admin_check_payment
+1,1,quyet12306@gmail.com,2023-11-02,9,Thung lũng Shangrila,950,2,1,Shangri-La Karesansui Hotel,2023-10-30 14:04:44,
+5,full name test,quyet12306@gmail.com,2023-09-20,7,test1,price,3,2,name_hotel,2023-10-31 09:53:03,
+6,full name test,quyet12306@gmail.com,2023-09-20,7,test1,price,3,2,name_hotel,2023-10-31 09:53:25,
+7,123,1@gmail.com,2023-11-02,8,"Thác Havasu, Arizona",1437,2,2,WorldMark Havasu Dunes,2023-10-31 11:12:43,
+8,111,quyet12306@gmail.com,2023-11-09,9,Santorini Greece,1200,2,1,Khu nghỉ dưỡng Santorini Kastelli,2023-11-06 13:20:08,
+9,123,quyet12306@gmail.com,2023-11-08,9,Lệ giang cổ trấn,1250,2,2,Lijiang Gui Yuan Tian Ju Guesthouse,2023-11-06 13:27:23,
+10,aaa,quyet12306@gmail.com,2024-01-05,9,Phượng Hoàng Cổ Trấn,1425,2,3,Nhà Hemu,2024-01-01 11:12:57,
+11,aa,quyet12306@gmail.com,2024-01-18,9,"Đông Xuyên, Trung Quốc",337,1,0,Khách sạn Hongjingxuan,2024-01-01 11:15:50,
+12,111,1@gmail.com,2024-01-12,7,"Đại thánh đường Sheikh Zayed, Abu Dhabi",375,1,0,"Shangri-La Qaryat Al Beri, Abu Dhabi",2024-01-02 21:27:29,
+13,a,1@gmail.com,2024-01-05,7,"Đại thánh đường Sheikh Zayed, Abu Dhabi",1000,2,1,"Shangri-La Qaryat Al Beri, Abu Dhabi",2024-01-02 21:29:03,
+14,quyết,1@gmail.com,2024-01-18,7,Cửu Trại Câu,600,2,0,"Holiday Inn Express Jiuzhaigou, an IHG Hotel",2024-01-03 11:00:26,
+15,123,1@gmail.com,2024-01-31,9,Thung lũng Shangrila,356,1,0,Shangri-La Karesansui Hotel,2024-01-16 14:20:17,

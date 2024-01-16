@@ -1,0 +1,5 @@
+base_code/security_info.py
+base_code/__pycache__
+email_with_python/__pycache__
+.env
+__pycache__
